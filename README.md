@@ -1,1 +1,2 @@
-# World_Map_Djakrta-s_Algorithim
+# World_Map_Dijekstra-s_Algorithim
+This code will take an input files that has the distances between countries and the countries that are connected directly. Using graphs in java and dijikstra algorithim, the shortest path from source to distination will be measered. Note that all the values in the file are almost accurate. The code will auto locate every country based on the name and coordinates that are given in the data file.
